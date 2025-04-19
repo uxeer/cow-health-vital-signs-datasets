@@ -68,12 +68,3 @@ Each CSV file follows this structure:
 ## License
 
 This repository and data are provided under the MIT License. Feel free to use, modify, and share the data as needed.
-"""
-
-# Save the updated content to a new README.md file
-updated_readme_file_path = '/mnt/data/UPDATED_README.md'
-
-with open(updated_readme_file_path, 'w') as file:
-    file.write(updated_readme_content)
-
-updated_readme_file_path
